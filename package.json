@@ -1,7 +1,7 @@
 {
-  "name": "with-emotion-11",
+  "name": "Joel Anton's Personal Site",
   "version": "1.0.0",
-  "description": "",
+  "description": "Joel Anton - Full Stack Developer, Ultimate Player, and Hot Sauce Enthusiast",
   "main": "index.js",
   "scripts": {
     "dev": "next",
@@ -9,7 +9,7 @@
     "start": "next start"
   },
   "keywords": [],
-  "author": "Thomas Greco",
+  "author": "Joel Anton",
   "license": "MIT",
   "dependencies": {
     "@emotion/cache": "11.0.0-next.12",
@@ -20,5 +20,8 @@
     "next": "latest",
     "react": "^16.7.0",
     "react-dom": "^16.7.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.1.2"
   }
 }
